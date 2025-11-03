@@ -1,0 +1,10 @@
+.nav-link{
+    color: aliceblue !important;
+    transition: 0.03s;
+}
+
+.nav-link:hover{
+    color: black !important;
+    background-color: white !important;
+    border-radius: 5px;
+}
